@@ -8,7 +8,7 @@ import Contact from '@/pages/Contact'
 export default function App() {
   return (
     <HashRouter>
-      <div className="min-h-screen flex flex-col bg-[#f0f5ff]">
+      <div className="min-h-screen flex flex-col bg-[#faf5eb]">
         <Header />
         <div className="flex-1">
           <Routes>
