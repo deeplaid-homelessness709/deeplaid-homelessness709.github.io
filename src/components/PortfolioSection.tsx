@@ -17,9 +17,9 @@ export default function PortfolioSection() {
 
   return (
     <section id="portfolio" ref={ref} className="relative py-28 px-4 sm:px-6 lg:px-8 max-w-6xl mx-auto">
-      <div className="absolute inset-0 bg-cover bg-center"
+      <div className="fixed inset-0 bg-cover bg-center"
         style={{ backgroundImage: "url('https://dq20231216-1326435468.cos.ap-beijing.myqcloud.com/AI/%E8%83%8C%E6%99%AF.jpg')" }} />
-      <div className="absolute inset-0 bg-gradient-to-b from-black/60 via-black/70 to-[#080808]" />
+      <div className="fixed inset-0 bg-gradient-to-b from-black/60 via-black/70 to-[#080808]" />
       <div className="absolute inset-0 bg-gradient-to-b from-transparent via-[#F59E0B]/[0.02] to-transparent pointer-events-none" />
       <div className={`text-center mb-16 transition-all duration-1000 ${vis ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-10'}`}>
         <div className="inline-flex items-center gap-2 glass-card px-4 py-1.5 rounded-full mb-6 animate-float">
